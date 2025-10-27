@@ -26,9 +26,13 @@ West region leads with 33% sales, while South contributes the least.
 Standard shipping is the most common mode, indicating cost-efficient logistics.
 Consistent YoY growth observed in Q3–Q4, showing seasonal performance improvements.
 
-🛠️ Tools & Technologies
+# Tools & Technologies
 Microsoft Power BI Desktop
 Data Modeling (Star Schema)
 DAX Measures for KPIs & YoY Comparisons
 Map Visualization (Bing Maps)
 Gradient Theme Customization (Blue Palette)
+
+# Screenshots
+https://github.com/dhirajsonawane244/Market-Plus-Dashboard/blob/main/1.png
+https://github.com/dhirajsonawane244/Market-Plus-Dashboard/blob/main/2.png
